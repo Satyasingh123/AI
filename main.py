@@ -24,7 +24,7 @@ BOT_TOKEN = "5845522997:AAF4sV9TJjPCBw4XQONQc4SHTOQ4DJRH1aI"
 MONGO_URL = "mongodb+srv://Satya1234:1234satya@cluster0.1zgorbi.mongodb.net/?retryWrites=true&w=majority"
 
 AI_API_KEY = "3b2150eab92f25f0e8d58e85a9f1227c"
-AI_BID = "26011964"
+AI_ID = "26011964"
 USERS_GROUP = 11
 
 
